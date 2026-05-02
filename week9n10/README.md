@@ -38,8 +38,3 @@
 8. Check whether two texts are anagrams.
 9. Display a calendar for a given month and year.
 10. Create, shuffle, and distribute a deck of cards to players.
-
-## Notes
-
-- This folder is meant to hold the week 9/10 assignment material in the same repository style as `week7n8`.
-- If you want, I can also create starter Java files for each question in this branch.
