@@ -37,7 +37,6 @@ public class q20 {
 
         for (int i = 0; i < scores.length; i++) {
             int total = scores[i][0] + scores[i][1] + scores[i][2];
-            double average = Math.round((total / 3.0) * 100.0) / 100.0;
             double percentage = Math.round((total / 300.0) * 10000.0) / 100.0;
             String grade = gradeForPercentage(percentage);
 
